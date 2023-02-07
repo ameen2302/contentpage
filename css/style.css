@@ -1,0 +1,95 @@
+*body{padding: 0; margin: 0;}
+
+
+.main{
+    margin-top: 5%;
+}
+
+.heading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.first-bullet li{
+font-family: 'Inter',sans-serif ;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 2em;
+}
+
+.image{
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.sub-head{
+
+    font-family: 'Poppins', sans-serif ;
+    font-weight: 700;
+    font-size: 20px; 
+}
+
+.page-end{
+font-family: 'Poppins', sans-serif;
+font-weight: 600;
+font-size: 16px;
+line-height: 1em;
+text-align: center;
+margin-top: 2em;
+}
+
+
+.modal-body{
+
+    padding: 5em;
+    text-align: center;
+}
+
+.modal-content{
+
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+.act_img{
+
+    background: none;
+
+border: none;
+}
+
+
+
+.image button{
+    width: 50%;
+}
+
+
+.vid iframe {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    border: 5px solid aqua;
+ 
+}
+
+/*
+ul li::before {
+    display: inline-block;
+    position: absolute;
+    top: 8px;
+    left: -16px;
+    width: 8px;
+    height: 8px;
+    transform: rotate(calc(var(--rotation) * 36deg));
+    background-image: url(/static/assets/list-bullet.svg);
+    line-height: 0;
+    text-align: center;
+    content: "";
+}*/
